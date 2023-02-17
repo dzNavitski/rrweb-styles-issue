@@ -1,8 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import { IonRouterOutlet, ModalController } from '@ionic/angular';
 import { ModalComponent } from '../modal/modal.component';
-import * as rrweb from "rrweb";
-import {listenerHandler} from "@rrweb/types";
+// import * as rrweb from "rrweb";
+// import {listenerHandler} from "@rrweb/types";
 
 @Component({
   selector: 'app-tab1',
