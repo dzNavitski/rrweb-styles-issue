@@ -1,0 +1,7 @@
+{
+  "name": "nested-pages",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
